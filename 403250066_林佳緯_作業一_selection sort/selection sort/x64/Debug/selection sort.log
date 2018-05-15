@@ -1,0 +1,2 @@
+﻿  project1.cpp
+ucrtd.lib(ucrtbased.dll) : fatal error LNK1112: 模組電腦類型 'X86' 與目標電腦類型 'x64' 衝突

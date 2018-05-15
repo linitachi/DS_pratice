@@ -1,0 +1,4 @@
+﻿  Source.c
+d:\輔仁暑期\大四\資料結構\403250066_林佳緯_stack\stack\source.c(23): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+  stack.vcxproj -> D:\輔仁暑期\大四\資料結構\403250066_林佳緯_stack\Debug\stack.exe
+  stack.vcxproj -> D:\輔仁暑期\大四\資料結構\403250066_林佳緯_stack\Debug\stack.pdb (Partial PDB)

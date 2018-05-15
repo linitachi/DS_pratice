@@ -1,0 +1,5 @@
+﻿  Source.c
+d:\輔仁暑期\大四\資料結構\403250066_林佳緯_quick sort\403250066_林佳緯_quick sort\source.c(45): warning C4033: 'readfile' 必須傳回值
+d:\輔仁暑期\大四\資料結構\403250066_林佳緯_quick sort\403250066_林佳緯_quick sort\source.c(56): warning C4715: 'readfile': 不是所有控制路徑都傳回值
+  403250066_林佳緯_quick sort.vcxproj -> D:\輔仁暑期\大四\資料結構\403250066_林佳緯_quick sort\Debug\403250066_林佳緯_quick sort.exe
+  403250066_林佳緯_quick sort.vcxproj -> D:\輔仁暑期\大四\資料結構\403250066_林佳緯_quick sort\Debug\403250066_林佳緯_quick sort.pdb (Partial PDB)
